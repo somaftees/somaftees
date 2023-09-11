@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineering Student from Libya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somafrees&label=Profile%20views&color=0e75b6&style=flat" alt="somafrees" /> </p>
-<p align="left"> <a href="https://facebook.com/tasnim.ftees" target="blank"> <img src="fb follow.png"" alt="Tasnim Ftees"height="40" width="100" /></a> </p>
+<p align="left"> <a href="https://facebook.com/tasnim.ftees" target="blank"> <img src="fb follow.png"" alt="Tasnim Ftees"height="40" width="120" /></a> </p>
 
 - 👩🏻‍💻 I’m currently learning on **ALX SE**
 
