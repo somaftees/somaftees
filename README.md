@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Tasnim</h1>
+<h1 align="center">Hi 👋🏻, I'm Tasnim</h1>
 <h3 align="center">A Software Engineering Student from Libya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somafrees&label=Profile%20views&color=0e75b6&style=flat" alt="somafrees" /> </p>
 <p align="left"> <a href="https://twitter.com/somaftees" target="blank"><img src="https://img.shields.io/twitter/follow/somaftees?logo=twitter&style=for-the-badge" alt="somaftees" /></a> </p>
 
-- 🔭 I’m currently learning on **ALX SE**
+- 👩🏻‍💻 I’m currently learning on **ALX SE**
 
-- 👨‍💻 All of my projects are available at [https://github.com/somaftees](https://github.com/somaftees)
+- 🚀 All of my projects are available at [https://github.com/somaftees](https://github.com/somaftees)
 
 - 📫 How to reach me **somaftees@gmail.com**
 
-- ⚡ Fun fact **I think I`m perfect**
+- 😇 Fun fact **I think I`m perfect**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
