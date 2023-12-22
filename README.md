@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **somaftees@gmail.com**
 
-- 😇 Fun fact **I think I`m perfect**
+- 😇 Fact **I`m perfect**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
